@@ -10,7 +10,6 @@
   "author": "rounak paul",
   "license": "ISC",
   "dependencies": {
-    "brain.js": "^2.0.0-beta.4",
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0",
     "npm": "8.3.1"
