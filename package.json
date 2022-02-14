@@ -1,0 +1,17 @@
+{
+  "name": "cheembot",
+  "version": "1.0.0",
+  "description": "cheembot with AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "author": "rounak paul",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.4",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
